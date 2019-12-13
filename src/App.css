@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.dblock {
+  display: block;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+.text-right {
+  text-align: right;
+  font-display: block;
+}
